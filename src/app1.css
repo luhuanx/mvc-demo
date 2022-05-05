@@ -1,0 +1,20 @@
+#app1 {}
+
+#app1 .output {
+    display: flex;
+}
+
+#app1 .output span {
+    margin: 20px auto;
+    font-size: 60px;
+}
+
+#app1 .actions {
+    display: flex;
+}
+
+#app1 .actions button {
+    width: 40px;
+    height: 40px;
+    margin: 20px auto;
+}
